@@ -1,0 +1,21 @@
+@charset "UTF-8";
+/* reset */
+
+
+body {
+	overflow:hidden;
+	}
+	
+footer {
+	clear: both;
+	width: 100%;
+	height: 50px;
+	color:#fff;
+}
+
+img {
+	background-color:#fff;
+	border:20px solid #fff;
+	border-radius:25px;
+	opacity:0.8;
+}
